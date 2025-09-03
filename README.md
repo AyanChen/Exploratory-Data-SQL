@@ -1,4 +1,4 @@
-# Exploratory-Data-SQL
+# Exploratory Data SQL
 In this phase, we will explore the dataset to identify potential trends, patterns, anomalies, and outliers.  Typically, the EDA process begins with a general hypothesis or guiding questions.
 
 This project contains an SQL-based exploratory data analysis of the `world_layoffs` dataset.  
